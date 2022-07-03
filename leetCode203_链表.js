@@ -40,6 +40,7 @@ class LinkNodeList{
   }
 }
 let linkList = new LinkNodeList();
+
 linkList.append(1);
 linkList.append(2);
 linkList.append(3);
